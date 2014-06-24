@@ -7,7 +7,7 @@
     <rect style="fill: #9bbe5a" x="-20" y="1004" width="104.1" height="36"/>
     <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-20" y="1004" width="104.1" height="36"/>
     <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-18" y="1018">&lt;&lt;sources&gt;&gt;</text>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-18" y="1034">service layer</text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-18" y="1034">Service layer</text>
   </g>
   <g>
     <rect style="fill: #6973dc" x="-20" y="660" width="1360" height="300"/>
@@ -47,7 +47,7 @@
     <rect style="fill: #9bbe5a" x="-20" y="1324" width="88.7" height="36"/>
     <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-20" y="1324" width="88.7" height="36"/>
     <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-18" y="1338">&lt;&lt;sources&gt;&gt;</text>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-18" y="1354">archive</text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-18" y="1354">Archive</text>
   </g>
   <g>
     <rect style="fill: #0596d2" x="-480" y="100" width="360" height="420"/>
@@ -92,7 +92,7 @@
     <rect style="fill: #6e824b" x="-480" y="1004" width="158" height="36"/>
     <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-480" y="1004" width="158" height="36"/>
     <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-478" y="1018">&lt;&lt;external sources&gt;&gt;</text>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-478" y="1034">external project</text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-478" y="1034">External project</text>
   </g>
   <g>
     <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="380,414 140,414 140,600 781.25,600 781.25,695.528 "/>
@@ -112,7 +112,7 @@
     <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1683" y="357.2">+FAQ</text>
     <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1683" y="373.2">+ticket system</text>
     <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1683" y="389.2">+step-by-step explanation</text>
-    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1683" y="405.2">+Data managment planning</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1683" y="405.2">+data managment planning</text>
     <rect style="fill: #fa9646" x="1680" y="412" width="202.5" height="8"/>
     <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1680" y="412" width="202.5" height="8"/>
   </g>
@@ -146,7 +146,7 @@
   <g>
     <rect style="fill: #fa9646" x="380" y="400" width="179.4" height="28"/>
     <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="380" y="400" width="179.4" height="28"/>
-    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="469.7" y="420">Index</text>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="469.7" y="420">index</text>
     <rect style="fill: #fa9646" x="380" y="428" width="179.4" height="36"/>
     <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="380" y="428" width="179.4" height="36"/>
     <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="383" y="441.2">+terminology extension</text>
@@ -357,16 +357,16 @@
     <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-340" y="408" width="133.2" height="8"/>
   </g>
   <g>
-    <rect style="fill: #fa9646" x="760" y="380" width="233.3" height="44"/>
+    <rect style="fill: #0596d2" x="760" y="380" width="233.3" height="44"/>
     <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="760" y="380" width="233.3" height="44"/>
     <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="876.65" y="395.2">&lt;&lt;interaction&gt;&gt;</text>
     <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="876.65" y="416">visualisation</text>
-    <rect style="fill: #fa9646" x="760" y="424" width="233.3" height="52"/>
+    <rect style="fill: #0596d2" x="760" y="424" width="233.3" height="52"/>
     <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="760" y="424" width="233.3" height="52"/>
     <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="763" y="437.2">+combine different layers</text>
     <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="763" y="453.2">+data evaluation and analysis</text>
     <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="763" y="469.2">+download results</text>
-    <rect style="fill: #fa9646" x="760" y="476" width="233.3" height="8"/>
+    <rect style="fill: #0596d2" x="760" y="476" width="233.3" height="8"/>
     <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="760" y="476" width="233.3" height="8"/>
   </g>
   <g>
@@ -419,7 +419,7 @@
     <rect style="fill: #ffffff" x="160" y="744" width="187.1" height="36"/>
     <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="160" y="744" width="187.1" height="36"/>
     <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="163" y="757.2">+ISO 19136: XML grammar</text>
-    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="163" y="773.2">+ISO 19139: xml schema</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="163" y="773.2">+ISO 19139: XML schema</text>
     <rect style="fill: #ffffff" x="160" y="780" width="187.1" height="8"/>
     <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="160" y="780" width="187.1" height="8"/>
   </g>
@@ -528,7 +528,7 @@
     <rect style="fill: #9bbe5a" x="680" y="1200" width="71.6" height="44"/>
     <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="680" y="1200" width="71.6" height="44"/>
     <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="715.8" y="1215.2">&lt;&lt;DBMS&gt;&gt;</text>
-    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="715.8" y="1236">SESAM</text>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="715.8" y="1236">SeSam</text>
     <rect style="fill: #9bbe5a" x="680" y="1244" width="71.6" height="8"/>
     <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="680" y="1244" width="71.6" height="8"/>
     <rect style="fill: #9bbe5a" x="680" y="1252" width="71.6" height="8"/>
@@ -658,29 +658,27 @@
     <rect style="fill: #325f64" x="-480" y="1324" width="134.9" height="36"/>
     <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-480" y="1324" width="134.9" height="36"/>
     <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-478" y="1338">&lt;&lt;data producer&gt;&gt;</text>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-478" y="1354">external projects</text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-478" y="1354">External projects</text>
   </g>
   <g>
-    <rect style="fill: #ffffff" x="-460" y="1440" width="102.4" height="58"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-460" y="1440" width="102.4" height="58"/>
+    <rect style="fill: #ffffff" x="-460" y="1440" width="102.4" height="44"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-460" y="1440" width="102.4" height="44"/>
     <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="-408.8" y="1455.2">&lt;&lt;producer&gt;&gt;</text>
     <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-408.8" y="1476">iDiv</text>
-    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-408.8" y="1491.2">project</text>
-    <rect style="fill: #ffffff" x="-460" y="1498" width="102.4" height="8"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-460" y="1498" width="102.4" height="8"/>
-    <rect style="fill: #ffffff" x="-460" y="1506" width="102.4" height="8"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-460" y="1506" width="102.4" height="8"/>
+    <rect style="fill: #ffffff" x="-460" y="1484" width="102.4" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-460" y="1484" width="102.4" height="8"/>
+    <rect style="fill: #ffffff" x="-460" y="1492" width="102.4" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-460" y="1492" width="102.4" height="8"/>
   </g>
   <g>
-    <rect style="fill: #ffffff" x="-340" y="1440" width="102.4" height="58"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-340" y="1440" width="102.4" height="58"/>
+    <rect style="fill: #ffffff" x="-340" y="1440" width="102.4" height="44"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-340" y="1440" width="102.4" height="44"/>
     <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="-288.8" y="1455.2">&lt;&lt;producer&gt;&gt;</text>
     <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-288.8" y="1476">AquaDiva</text>
-    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-288.8" y="1491.2">project</text>
-    <rect style="fill: #ffffff" x="-340" y="1498" width="102.4" height="8"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-340" y="1498" width="102.4" height="8"/>
-    <rect style="fill: #ffffff" x="-340" y="1506" width="102.4" height="8"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-340" y="1506" width="102.4" height="8"/>
+    <rect style="fill: #ffffff" x="-340" y="1484" width="102.4" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-340" y="1484" width="102.4" height="8"/>
+    <rect style="fill: #ffffff" x="-340" y="1492" width="102.4" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-340" y="1492" width="102.4" height="8"/>
   </g>
   <g>
     <rect style="fill: #ffffff" x="-300" y="1200" width="110.1" height="44"/>
@@ -716,7 +714,7 @@
     <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1708.69" y="1608" width="235.2" height="164"/>
     <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1711.69" y="1621.2">+DataONE</text>
     <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1711.69" y="1637.2">+EEA</text>
-    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1711.69" y="1653.2">+Gbif</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1711.69" y="1653.2">+GBif</text>
     <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1711.69" y="1669.2">+ICO</text>
     <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1711.69" y="1685.2">+LifeWatch</text>
     <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1711.69" y="1701.2">+NBN</text>
@@ -790,7 +788,7 @@
     <rect style="fill: #6e824b" x="1460" y="1428" width="395" height="100"/>
     <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1460" y="1428" width="395" height="100"/>
     <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1463" y="1441.2">+DWB: Species occurrences</text>
-    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1463" y="1457.2">+Gbif: Species occurrences</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1463" y="1457.2">+GBif: Species occurrences</text>
     <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1463" y="1473.2">+German Vegetation Reference Database: Communities</text>
     <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1463" y="1489.2">+SESAM: Species occurrences</text>
     <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1463" y="1505.2">+West African PlantDatabase: Species occurrences</text>
@@ -856,27 +854,11 @@
     <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1200" y="1192" width="110.1" height="8"/>
   </g>
   <g>
-    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1015.05,1135.53 1015.05,880 1211.2,880 1211.2,764.472 "/>
-    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1007.05,1121.76 1015.05,1137.76 1023.05,1121.76 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1130,1095.53 1130,880 1211.2,880 1211.2,764.472 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1122,1081.76 1130,1097.76 1138,1081.76 "/>
     <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1219.2,778.236 1211.2,762.236 1203.2,778.236 "/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="1113.13" y="876"></text>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1026.05" y="1136"></text>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1222.2" y="772"></text>
-  </g>
-  <g>
-    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1135.05,1135.53 1135.05,880 1211.2,880 1211.2,764.472 "/>
-    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1127.05,1121.76 1135.05,1137.76 1143.05,1121.76 "/>
-    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1219.2,778.236 1211.2,762.236 1203.2,778.236 "/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="1173.13" y="876"></text>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1146.05" y="1136"></text>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1222.2" y="772"></text>
-  </g>
-  <g>
-    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1255.05,1135.53 1255.05,880 1211.2,880 1211.2,764.472 "/>
-    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1247.05,1121.76 1255.05,1137.76 1263.05,1121.76 "/>
-    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1219.2,778.236 1211.2,762.236 1203.2,778.236 "/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="1233.13" y="876"></text>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1266.05" y="1136"></text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="1170.6" y="876"></text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1141" y="1096"></text>
     <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1222.2" y="772"></text>
   </g>
   <g>
@@ -916,7 +898,7 @@
     <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1545.6" y="1720">important data providers</text>
     <rect style="fill: #ffffff" x="1440" y="1728" width="211.2" height="20"/>
     <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1440" y="1728" width="211.2" height="20"/>
-    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1443" y="1741.2">+EBI</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1443" y="1741.2">+EBI / ENA</text>
     <rect style="fill: #ffffff" x="1440" y="1748" width="211.2" height="8"/>
     <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1440" y="1748" width="211.2" height="8"/>
   </g>
@@ -981,15 +963,15 @@
     <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="761" y="256"></text>
   </g>
   <g>
-    <rect style="fill: #fa9646" x="620" y="280" width="217.9" height="44"/>
+    <rect style="fill: #0596d2" x="620" y="280" width="217.9" height="44"/>
     <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="620" y="280" width="217.9" height="44"/>
     <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="728.95" y="295.2">&lt;&lt;interaction&gt;&gt;</text>
     <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="728.95" y="316">data aggregation</text>
-    <rect style="fill: #fa9646" x="620" y="324" width="217.9" height="36"/>
+    <rect style="fill: #0596d2" x="620" y="324" width="217.9" height="36"/>
     <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="620" y="324" width="217.9" height="36"/>
     <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="623" y="337.2">+data selection</text>
     <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="623" y="353.2">+upload for private dataset</text>
-    <rect style="fill: #fa9646" x="620" y="360" width="217.9" height="8"/>
+    <rect style="fill: #0596d2" x="620" y="360" width="217.9" height="8"/>
     <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="620" y="360" width="217.9" height="8"/>
   </g>
   <g>
