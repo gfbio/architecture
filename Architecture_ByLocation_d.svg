@@ -164,14 +164,14 @@
     <text font-size="12.7998" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="2396" y="478"></text>
   </g>
   <g>
-    <rect style="fill: #fa9646" x="2400" y="560" width="148.4" height="44"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="2400" y="560" width="148.4" height="44"/>
-    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="2474.2" y="575.2">&lt;&lt;interface&gt;&gt;</text>
-    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="2474.2" y="596">JenaWebservices</text>
-    <rect style="fill: #fa9646" x="2400" y="604" width="148.4" height="8"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="2400" y="604" width="148.4" height="8"/>
-    <rect style="fill: #fa9646" x="2400" y="612" width="148.4" height="8"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="2400" y="612" width="148.4" height="8"/>
+    <rect style="fill: #fa9646" x="2400" y="560" width="150.3" height="44"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="2400" y="560" width="150.3" height="44"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="2475.15" y="575.2">&lt;&lt;interface&gt;&gt;</text>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="2475.15" y="596">JenaWebServices</text>
+    <rect style="fill: #fa9646" x="2400" y="604" width="150.3" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="2400" y="604" width="150.3" height="8"/>
+    <rect style="fill: #fa9646" x="2400" y="612" width="150.3" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="2400" y="612" width="150.3" height="8"/>
   </g>
   <g>
     <rect style="fill: #ffffc8" x="2700" y="400" width="460" height="380"/>
@@ -182,14 +182,14 @@
     <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="2702" y="394">Marburg</text>
   </g>
   <g>
-    <rect style="fill: #fa9646" x="2920" y="460" width="179.25" height="44"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="2920" y="460" width="179.25" height="44"/>
-    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="3009.63" y="475.2">&lt;&lt;interface&gt;&gt;</text>
-    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="3009.63" y="496">MarburgWebservices</text>
-    <rect style="fill: #fa9646" x="2920" y="504" width="179.25" height="8"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="2920" y="504" width="179.25" height="8"/>
-    <rect style="fill: #fa9646" x="2920" y="512" width="179.25" height="8"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="2920" y="512" width="179.25" height="8"/>
+    <rect style="fill: #fa9646" x="2920" y="460" width="181.15" height="44"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="2920" y="460" width="181.15" height="44"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="3010.57" y="475.2">&lt;&lt;interface&gt;&gt;</text>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="3010.57" y="496">MarburgWebServices</text>
+    <rect style="fill: #fa9646" x="2920" y="504" width="181.15" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="2920" y="504" width="181.15" height="8"/>
+    <rect style="fill: #fa9646" x="2920" y="512" width="181.15" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="2920" y="512" width="181.15" height="8"/>
   </g>
   <g>
     <rect style="fill: #9bbe5a" x="2760" y="640" width="94.7" height="44"/>
@@ -336,7 +336,7 @@
     <rect style="fill: #ffffff" x="1660" y="1060" width="217.9" height="44"/>
     <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1660" y="1060" width="217.9" height="44"/>
     <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="1768.95" y="1075.2">&lt;&lt;interface&gt;&gt;</text>
-    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1768.95" y="1096">PANGAEAWebservices</text>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1768.95" y="1096">PANGAEAWebServices</text>
     <rect style="fill: #ffffff" x="1660" y="1104" width="217.9" height="36"/>
     <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1660" y="1104" width="217.9" height="36"/>
     <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1663" y="1117.2">+REST: Endpoint</text>
@@ -400,8 +400,8 @@
   <g>
     <rect style="fill: #ffffff" x="2240" y="1040" width="194.8" height="44"/>
     <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="2240" y="1040" width="194.8" height="44"/>
-    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="2337.4" y="1055.2">&lt;&lt;jsWebservice&gt;&gt;</text>
-    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="2337.4" y="1076">JU-Webservices</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="2337.4" y="1055.2">&lt;&lt;jsWebService&gt;&gt;</text>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="2337.4" y="1076">JU-WebServices</text>
     <rect style="fill: #ffffff" x="2240" y="1084" width="194.8" height="20"/>
     <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="2240" y="1084" width="194.8" height="20"/>
     <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="2243" y="1097.2">+REST: Endpoint</text>
@@ -536,7 +536,10 @@
     <text font-size="12.7998" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="3000" y="1398"></text>
   </g>
   <g>
-    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="3009.63,520 3009.63,520 3008.58,520 3008.58,635.528 "/>
-    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="3000.57,621.764 3008.58,637.764 3016.58,621.764 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="3010.58,520 3010.58,520 3008.58,520 3008.58,635.528 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="3000.58,621.764 3008.58,637.764 3016.58,621.764 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="3009.58" y="516"></text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="3006.58" y="516"></text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="3019.58" y="636"></text>
   </g>
 </svg>
